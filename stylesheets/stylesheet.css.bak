@@ -152,12 +152,10 @@ a.button span {
   height: 23px;
 }
 #join-on-reddit span {
-  background: transparent url(../images/reddit-alien.png) 12px 50% no-repeat;
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
+  background: transparent url(../images/reddit-alien.png) 24px 50% no-repeat;
 }
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
+#join-on-steam span {
+  background: transparent url(../images/reddit-alien.png) 24px 50% no-repeat;
 }
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
