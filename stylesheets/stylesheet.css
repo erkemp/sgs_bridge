@@ -98,10 +98,6 @@ header h2 {
   max-width: 100%;
 }
 
-#downloads {
-  margin-bottom: 40px;
-}
-
 a.button {
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;                     
@@ -115,7 +111,7 @@ a.button {
   font-weight: bold;
   font-size: 15px;
   padding: 12px 8px 12px 8px;
-  display: block;
+  display: inline;
   float: left;
   width: 179px;
   margin-right: 14px;  
@@ -147,18 +143,9 @@ a.button:hover {
 }
 
 a.button span {
-  padding-left: 50px;
+  padding-left: 30px;
   display: block;
   height: 23px;
-}
-#join-on-reddit span {
-  background: transparent url(../images/reddit-alien.png) 24px 50% no-repeat;
-}
-#join-on-steam span {
-  background: transparent url(../images/steam-logo.png) 24px 50% no-repeat;
-}
-#view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
 #view-on-github {
   margin-right: 0;
