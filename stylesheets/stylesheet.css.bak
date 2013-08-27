@@ -153,7 +153,6 @@ a.button span {
 }
 #join-on-reddit span {
   background: transparent url(../images/reddit-alien.png) 12px 50% no-repeat;
-}
 #download-zip span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
 }
